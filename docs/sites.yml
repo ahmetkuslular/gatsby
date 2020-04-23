@@ -10491,3 +10491,14 @@
     - Healthcare
   built_by: Albert Chen
   built_by_url: https://github.com/mralbertchen
+- title: turkeyNGO
+  url: https://turkeyngo.netlify.app/
+  main_url: https://turkeyngo.netlify.app/
+  description: >
+    COVID KPI aggregates COVID-19 data from numerous official sources then displays the Key Performance Indicators.
+  categories:
+    - Blog
+    - Nonprofit
+    - Data
+  built_by: Ahmet Kuşlular
+  built_by_url: https://github.com/ahmetkuslular
