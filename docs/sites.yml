@@ -10491,3 +10491,14 @@
     - Healthcare
   built_by: Albert Chen
   built_by_url: https://github.com/mralbertchen
+- title: turkeyNGO
+  url: https://turkeyngo.netlify.app/
+  main_url: https://turkeyngo.netlify.app/
+  description: >
+    which it is listed as a data platform of civil society organizations(NGO) in Turkey and categorized
+  categories:
+    - Blog
+    - Nonprofit
+    - Data
+  built_by: Ahmet Kuşlular
+  built_by_url: https://github.com/ahmetkuslular
